@@ -1,0 +1,94 @@
+.black-text:is(:hover, :focus),
+.black-text {
+  color: #1A1A1A !important;
+}
+
+.gray-text:is(:hover, :focus),
+.gray-text {
+  color: #595959;
+}
+
+.gray-text-light:is(:hover, :focus),
+.gray-text-light {
+  color: #A0A0A0;
+}
+
+.font-10 {
+  font-size: 10px;
+}
+
+.font-12 {
+  font-size: 12px;
+}
+
+.font-14 {
+  font-size: 14px;
+}
+
+.font-16 {
+  font-size: 16px;
+}
+
+.font-18 {
+  font-size: 18px;
+}
+
+.font-20 {
+  font-size: 20px;
+}
+
+.font-22 {
+  font-size: 22px;
+}
+
+.font-24 {
+  font-size: 24px;
+}
+
+.font-26 {
+  font-size: 26px;
+}
+
+.font-28 {
+  font-size: 28px;
+}
+
+.font-30 {
+  font-size: 30px;
+}
+
+.font-32 {
+  font-size: 32px;
+}
+
+.font-36 {
+  font-size: 36px;
+}
+
+h2,
+.font-40 {
+  font-size: 40px;
+}
+
+.font-46 {
+  font-size: 46px;
+}
+
+.font-48 {
+  font-size: 48px;
+}
+
+.font-55 {
+  font-size: 55px;
+}
+
+
+/* heading */
+.font-76,
+h1 {
+  font-size: 76px;
+}
+
+.fw-600 {
+  font-weight: 600;
+}
